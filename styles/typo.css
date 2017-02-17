@@ -1,0 +1,35 @@
+
+li{
+  font-family: 'Bahiana', cursive;
+}
+
+
+
+body {
+font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+  font-family: 'Bahiana', cursive;
+  font-size: 92px;
+  text-align: center;
+}
+
+h2 {
+font-family: 'Barrio', cursive;
+  font-size: 111px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Bahiana', cursive;
+  font-size: 33px;
+  text-align: center;
+}
+
+p {
+font-family: 'Amatic SC', cursive;
+font-weight: 300;
+text-align: center;
+font-size: 33px;
+}
